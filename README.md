@@ -36,7 +36,7 @@ Due to the size of the dataset this was **not** uploaded to the repository, plea
     -  ConfusionMatrixWaveNet - Confusion matrix results for WaveNet
 
 # How to use:
-- In order to use the notebooks the relevant programming should be installed first
+- In order to use the notebooks the relevant programming languages should be installed first
 - Since the files are created in jupyter notebooks it is encouraged to install/inspect/run them with jupyter notebook (using [anaconda](https://www.anaconda.com/products/individual) for example).
 - These notebook files can also be read with other interpreters but sometimes conversion is needed 
 
